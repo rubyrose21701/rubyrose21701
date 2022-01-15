@@ -1,3 +1,4 @@
+@import url(https://discord.com/)
 :root {
     --transparencycolor: 0,0,0;
     --transparencyalpha: 0.15;
